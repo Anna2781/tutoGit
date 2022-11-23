@@ -9,13 +9,13 @@ nav {
 
 .social__icons {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 /* Taille des icones */
 
 .social__icons img {
-  width: 72px;
+  width: 90px;
 }
 
 /* Configuration au départ sur icones */
