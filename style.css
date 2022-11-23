@@ -41,5 +41,5 @@ nav {
 .social__icons a:focus,
 .social__icons a:active {
   margin-top: -1em;
-  background-size: 100% 0.5em;
+  background-size: 50% 1em;
 }
